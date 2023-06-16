@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Solar/static/css/main.e8d90078.css",
+    "main.js": "/React-Solar/static/js/main.c5aa0168.js",
+    "static/media/img.png": "/React-Solar/static/media/img.49a8523ffb1a330d69fa.png",
+    "static/media/Massimo Fabi_ direttore commerciale.png": "/React-Solar/static/media/Massimo Fabi_ direttore commerciale.e33981379a6c0f856534.png",
+    "static/media/Testoni Cristian.png": "/React-Solar/static/media/Testoni Cristian.2553cef8b0b0dc7c358c.png",
+    "static/media/Gavioli.png": "/React-Solar/static/media/Gavioli.4a0e19c30aa3ab4d1404.png",
+    "index.html": "/React-Solar/index.html",
+    "main.e8d90078.css.map": "/React-Solar/static/css/main.e8d90078.css.map",
+    "main.c5aa0168.js.map": "/React-Solar/static/js/main.c5aa0168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d90078.css",
+    "static/js/main.c5aa0168.js"
+  ]
+}
